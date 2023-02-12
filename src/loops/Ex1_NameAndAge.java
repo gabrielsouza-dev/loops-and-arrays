@@ -1,8 +1,11 @@
 package loops;
+/*
+Make a program that displays user-supplied name and age.
+ */
 
 import java.util.Scanner;
 
-public class NameAndAge {
+public class Ex1_NameAndAge {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
 

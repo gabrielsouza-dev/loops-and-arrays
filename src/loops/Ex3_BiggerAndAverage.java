@@ -2,7 +2,7 @@ package loops;
 
 import java.util.Scanner;
 
-public class BiggerAndAverage {
+public class Ex3_BiggerAndAverage {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
 

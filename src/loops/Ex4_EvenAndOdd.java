@@ -2,7 +2,7 @@ package loops;
 
 import java.util.Scanner;
 
-public class EvenAndOdd {
+public class Ex4_EvenAndOdd {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
 
