@@ -12,6 +12,7 @@ public class Ex1_NameAndAge {
         String name;
         int age;
 
+        //While solution
         while(true) {
 
             System.out.println("Type your name: ");
@@ -22,7 +23,7 @@ public class Ex1_NameAndAge {
             age = scan.nextInt();
         }
 
-        System.out.println("Come back here.");
-
+       System.out.println("Come back here.");
+       
     }
 }
